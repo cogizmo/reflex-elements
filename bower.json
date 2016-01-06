@@ -1,0 +1,29 @@
+{
+	"name": "reflex-elements",
+	"version": "0.1.0",
+	"description": "UI elements to smooth the development of the more common and standard UI patterns.",
+	"keywords": [
+		"web-components",
+		"polymer",
+		"nativeweb"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/FuzzicalLogic/reflex-elements.git"
+	},
+	"dependencies": {
+	},
+	"homepage": "https://github.com/FuzzicalLogic/reflex-elements",
+	"authors": [
+		"Donald Atkinson"
+	],
+	"license": "http://polymer.github.io/LICENSE.txt",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"main": "index.html"
+}
